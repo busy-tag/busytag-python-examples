@@ -1,0 +1,11 @@
+# Core (busytag.py and the learning course)
+pyserial>=3.5
+Pillow>=10.1
+requests>=2.31
+psutil>=5.9
+
+# Widgets: install only what the widget you run needs
+speedtest-cli>=2.1        # internet_speed_test.py
+pynput>=1.7               # mouse_click_counter.py
+msal>=1.24                # outlook_calendar.py
+google-auth-oauthlib>=1.2 # google_calendar.py

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+
+# Sign-ins and device settings written by the examples: never commit these
+credentials.json
+*_token.json
+wifi_device.json
