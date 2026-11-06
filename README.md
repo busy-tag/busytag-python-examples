@@ -98,5 +98,6 @@ Each script explains its options at the top and with `--help`. Sign-ins are cach
   upload when something changed, at most about once a minute for clocks and timers. Keep it
   that way in your own projects; for animation, upload one GIF instead of many pictures.
 - **Pictures:** the screen is 240 × 280 pixels. GIFs can be at most 1 MB.
+- **Licence:** MIT, see [LICENSE](LICENSE). Copy the code into your own projects.
 - **Busy Tag app:** many of these ideas are also built into the app as integrations, and you can
   write your own as a [plugin](https://busy-tag.github.io/developers/plugin-development).
